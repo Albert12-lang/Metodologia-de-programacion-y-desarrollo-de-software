@@ -1,0 +1,23 @@
+Operaciones matemáticas entre enteros.
+
+Días totales de la elaboración del proyecto (3 días).
+
+
+En este proyecto usamos el mismo estilo de (CSS) del ejercicio uno, ya que esté estilo es compatible con lo que va con el proyecto, el mismo caso con el (div), esté nos ayuda para contener, el cuerpo, el (input) que usaremos para ingresar los valores, el button para ejecutar la operación y otro más para limpiar la operación.
+
+El (script) esté nos ayuda para comenzar a usar la (function) para calcular la operación que necesitamos, el (let) es para asignar que le daremos un valor a una variable cualquiera en esté caso a, b y el texto usaremos el texto como contenedor de la multiplicación y potencia del resultado de las dos ejecuciones.
+
+El (for) es un bucle para poder repetir las veces que sean necesarias para que salga el resultado que hemos escrito en el código.
+
+El (if) nos sirve para tomar decisiones según las condiciones que le hemos dicho, en esté caso nos ayuda a saber si el contado (i) es menor a b y si es correcto ese resultado se multiplica con la variable texto para tener el resultado final.
+
+
+En en caso del let de la potencia se asigna que su valor va hacer 1, en las demás lineas se van a ir haciendo la operación, también como se van a ir generando el resultado 
+Por ejemplo: Si el valor ingresado es 2 y el otro valor es 2
+2^2 = 2 * 2 = 4,
+
+El (document), lo implementamos para que salga en la etiqueta de texto
+Ahora la function de limpiar, dentro de ella estarán los valor de a, b y salida.
+Concluyendo todo esto cerrando el script, body y el html.
+
+El br es una función para que los valores o los textos no aparezcan pegados.

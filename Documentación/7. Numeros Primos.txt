@@ -1,0 +1,19 @@
+Contador de números primos. 
+Semper Ordóñez Ismael Jared.
+
+
+Lo primero separé el Html y el Js para que se más ordenado.
+
+Html.
+
+Use el Html.5 para generar la estructura del Html.
+En el body implemente un div que tendrá un estilo para centrar el texto.
+Dentro del div escribí un Table con borde 1 y style con margen central.
+Después un thead para luego un tr y dentro del mismo un th que tendrá un colspan que ayudará a definir los espacios de las columnas y cerramos todos los atributos. 
+Implemente un Tbody dentro un tr y dentro de esté cree dos td uno que tendrá el titulo de ingresar un numero, el otro td tendrá un input que me ayudará a implementar un type = number y un id= "txt-num" cerramos todos los atributos que usamos.
+Ahora abrimos otro td que esté tendrá un button con su id =btn_generador y le puse el nombre generar cerramos y abrimos un td que tiene un input que tendrá un type = "txt", un id= "txt-respuesta" y un disabled placeholder = respuesta, cerramos todas los atributos.
+Se usa un <br> para que no esté todo pegado.
+Abrimos otro div con un id="div-resultado" con un style="display: none;", dentro escribimos varias p con sus id cerramos el div y abrimos un script con un type="module un src="./Contador.js" que esté último nos ayudará a que el js esté sincronizado con el Html.
+
+
+Dentro del Js, escribimos varios const que cada uno tendrá su propio nombre, un btn_generador que tendrá la función de dar click y ya después un let para el numero, dos function que cada una se encargará de algo distinto y cada uno tendrá un ciclo for para ir generando un ciclo, estos tendran un if para confirmar si todo está bien y por último los textos para que aparezcan en el Html.

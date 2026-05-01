@@ -1,0 +1,16 @@
+Elaboración de sacar los números perfectos.
+
+Duración 4 Días. 
+
+Comenzamos con el HTML5, después en el (head), abrimos un (style), nos servirá para darle estilo al programa, dentro escribimos (body), lo usaremos para darle color al cuerpo, la letra, la tabla, también a la interface, después vamos al (body), esté está fuera del style escribimos con (h1) el titulo que tendrá el cuerpo, creamos la (table) y creamos sus demás funciones, ahora vamos al (script), usamos (let) para declarar la variable de table para que pueda aparecer en el cuerpo, usamos de nuevo (let) para declarar la variable de contador y darle el valor de 1. 
+
+
+Usamos (For), esto nos ayudará para crear un bucle que nos sirve para declara la variable 
+(num = 2), después el valor de num deberá ser menor o igual a (8.128) y después dejamos la variable (num++) para que vaya contando hasta el valor limite que le asignamos. 
+
+
+Después de que el valor num llegué a su limite usamos de nuevo (let) para volverle asignar un valor está vez el 0 se cierra el (for).
+
+Abrimos otro (for) para que usar let y asignarle el valor a la variable i = 1, y esa variable i va hacer menor o igual a num dividido entre 2, la variable (i++) para que vaya contando mientras esté en el bucle.
+
+Por último abrimos un (if) para ejecutar la condición que daremos, (sum === num) esto nos ayuda a comparar valor y tipo de datos, abrimos un (let) que tendrá una (fila) que nos ayudará a generar los números perfecto en el html.

@@ -1,0 +1,42 @@
+Html.
+
+Usé Html5 para crear la estructura de la página.
+En el body implementé un div con estilo para centrar todo el contenido.
+
+Dentro del div coloqué una tabla con borde 1 y centrada usando margin auto.
+Después agregué un thead con un tr y un th con colspan para el título “Cálculo de Sueldo Vendedor”.
+
+Luego en el tbody creé varios tr con dos td cada uno.
+En el primer td puse los textos como:
+
+Nombre del vendedor
+Sueldo básico
+Venta1
+Venta2
+Venta3
+En el segundo td agregué inputs:
+type="text" para el nombre
+type="number" para el sueldo y ventas
+cada uno con su respectivo id
+Después añadí un botón con id="btn_calcular" para ejecutar el cálculo.
+También agregué un input deshabilitado para mostrar la respuesta.
+Usé un <br> para separar los elementos.
+Luego creé otro div con id="div-resultado" y style="display:none;" para mostrar los resultados.
+Dentro coloqué varios <p> con sus id para:
+vendedor
+total de ventas
+comisión
+sueldo total
+Finalmente agregué el script con type="module" y src="./sueldo.js" para conectar el JavaScript.
+
+Dentro del archivo Js declaré constantes para capturar los elementos del Html usando sus id.
+Luego utilicé un botón con evento click para ejecutar el cálculo.
+Creé variables para:
+sueldo básico
+ventas
+total de ventas
+comisión
+Después sumé las tres ventas para obtener el total.
+Luego calculé la comisión (dependiendo del porcentaje que se use).
+Finalmente sumé el sueldo básico más la comisión para obtener el sueldo total.
+Para terminar, mostré los resultados en el div usando los elementos <p> y cambié el display a visible.

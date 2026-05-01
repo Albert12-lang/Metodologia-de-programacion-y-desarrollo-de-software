@@ -1,0 +1,41 @@
+1. HTML5 - Estructura
+Declaración <!DOCTYPE html> (HTML5)
+Tags semánticos: <div>, <h1>, <label>, <input>, <button>
+Input tipo number (nmero) para entrada numérica
+IDs para manipulación desde JavaScript
+(los IDs son cruciales para JavaScript
+JavaScript necesita encontrar elementos HTML para poder:
+Leer sus valores,Modificar su contenido,Cambiar sus estilos,Eliminarlos o crearlos
+Los IDs son la forma más directa y sencilla de hacerlo.
+2. CSS3 - Estilos visuales
+Flexbox: display: flex para centrar contenido vertical/horizontalmente
+Sombras: box-shadow para efecto 3D sutil
+Bordes personalizados: border-left con colores diferentes
+Overflow: overflow-y: auto para scroll en resultados
+Pseudoclases: :last-child, :first-child
+3. JavaScript - Lógica y comportamiento
+Funciones principales:
+esPrimo(numero) - Algoritmo de primalidad
+Verifica si un número es primo (divisible solo por 1 y sí mismo)
+Optimización básica (no usa raíz cuadrada)
+calcular() - Lógica central
+Lee valor del input con parseInt()
+Genera secuencia Fibonacci (1,1,2,3,5,8...)
+Filtra números primos
+Calcula suma y promedio
+Manipula el DOM con innerHTML
+Conceptos clave implementados
+Secuencia Fibonacci
+javascript
+fib[i] = fib[i-1] + fib[i-2] (funciona como el algoritmo donde hacemos que el valor de a se vaya y a coja el valor del b y b coja el valor de c y c coja la suma de esos valores  // Cada número suma los dos anteriores
+Array dinámico
+Uso de índices para almacenar valores
+fib.length para control de iteraciones
+Manipulación del DOM
+document.getElementById() - obtener elementos
+.innerHTML - modificar contenido HTML
+toFixed(2) - formatear decimales
+Interacción usuario
+Evento onclick en botón
+Captura de input con .value
+Feedback visual inmediato (resultados en caja con scroll)

@@ -1,0 +1,28 @@
+Sucesión de Fibonacci
+
+
+En este segundo trabajo tuve que hacer la sucesión de Fibonacci, 
+que básicamente es una serie donde cada número es la suma de los dos anteriores.
+
+
+Primero traté de entender bien la fórmula porque al inicio no me quedaba 
+claro cómo iniciar. Luego hice la interfaz igual con botones y un espacio 
+para ingresar cuántos números quería mostrar.
+
+
+Después programé usando un ciclo for, donde iba guardando los valores anteriores 
+veces porque los números no salían bien o se repetían mal, pero fui corrigiendo.
+
+
+Igual aquí busqué ayuda en internet, sobre todo en YouTube para entender mejor cómo 
+se arma la lógica de Fibonacci y adaptarlo a mi programa.
+
+
+Al final logré que el programa muestre correctamente la sucesión.
+
+
+Este trabajo también me tomó unos 2 días, porque me costó un poco más entender la lógica. 
+
+
+Aun estoy aprendiendo como usar el programa, así que el programa bueno el HTML puede 
+tener fallas y así estoy tratando de mejorar

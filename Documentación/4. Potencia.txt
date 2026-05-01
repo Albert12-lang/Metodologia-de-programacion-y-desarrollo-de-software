@@ -1,0 +1,28 @@
+Ejercicio 4 Jhon Gualpa c2
+
+Explicación como realizar ejercicio de Potencias en .HTML
+Duración 1 día
+Comenzamos creando el archivo .HTML de nombre potencia iniciar con la base de html, en el <Body> ponemos un formulario para que el usuario escriba la base A y el exponente B y un botón para ejecutar el calculo.
+Continuamos realizando el espacio de salida un párrafo <p> donde se mostrará el resultado final, el algoritmo captura los valores ingresados, aplica los procesos según el valor de B y muestra el resultado en pantalla.
+El paso a paso:
+El algoritmo define como resultado = 1, se lee los valores de A y B del formulario.
+Según el caso realiza un proceso, en este algoritmo hay 3 casos:
+Caso 1: B=0
+	Se asigna directamente resultado = 1.
+Caso 2: B>0
+	Se usa un bucle for que multiplica resultado por A tantas veces como indique B.
+Caso 3: B<0
+	Se convierte el exponente a positivo (positivo = -B).
+	Se multiplica A por sí misma positivo veces.
+	Se calcula el inverso: resultado = 1 / resultado.
+Se muestra el resultado en el párrafo <p> usando textContent.
+
+Ejemplo
+	Entrada:
+	Base A=3
+	Exponente B=-2
+	Proceso:
+	Multiplicación: 3×3=9
+	Inverso: 1/9=0.111...
+	Salida:
+	“El resultado de 3^-2 es: 0.111…”

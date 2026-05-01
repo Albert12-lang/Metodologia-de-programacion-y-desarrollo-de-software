@@ -1,0 +1,21 @@
+Tabla de multiplicar.
+
+
+Bueno, para este trabajo primero entendí lo que pedían, que era hacer un programa 
+que muestre la tabla de multiplicar de un número que uno ingresa. Al inicio sí me 
+confundí un poco porque no sabía bien cómo hacer que el número se repita varias 
+veces, pero luego me acordé de los ciclos for.
+
+
+Después hice la interfaz con botones y un cuadro de texto para que el usuario escriba 
+el número. Luego programé el botón para que cuando se presione, tome el número 
+ingresado y haga la tabla desde el 1 hasta el 10.
+
+
+Tuve algunos errores al inicio porque no me salían bien los resultados o no se mostraban,
+pero fui probando poco a poco hasta que funcionó. Al final logré que se vea ordenado.
+
+
+También usé ayuda de internet, más que todo busqué en Google ejemplos de cómo hacer 
+ciclos for y cómo mostrar resultados en pantalla, eso me ayudó bastante para guiarme
+Este trabajo me tomó aproximadamente 2 días, porque entre entender, probar y corregir errores sí me demoré.

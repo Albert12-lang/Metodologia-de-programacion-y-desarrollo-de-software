@@ -1,0 +1,40 @@
+Factorial de un número
+
+
+Este trabajo lo realicé en aproximadamente 3 días, ya que al inicio 
+no entendía bien cómo hacer la interacción con botones ni cómo mostrar 
+los resultados en un cuadro dentro de la página. Poco a poco fui 
+probando y corrigiendo errores hasta que logré que funcione correctamente.
+
+
+El programa consiste en calcular el factorial de un número 
+ingresado por el usuario. Primero se pide que el usuario escriba un valor (N) 
+en una caja de texto. Luego, al presionar el botón “Calcular”, el programa 
+ejecuta un proceso usado un ciclo for, el cual multiplica todos los números desde 1 hasta N.
+
+
+También se muestra el procedimiento completo, por ejemplo:
+1 * 2 * 3 * 4 * 5 y finalmente el resultado, como 5! = 120. 
+Esto se presenta dentro de un cuadro en la interfaz para que sea más ordenado y entendible.
+
+
+Además, se implementó un botón “Limpiar” que permite borrar tanto el número ingresado 
+como el resultado mostrado, facilitando volver a usar el programa sin recargar la página.
+
+
+Durante el desarrollo tuve algunas dificultades, como errores al momento de ejecutar 
+el código en el navegador (pantalla en blanco), problemas al guardar el archivo correctamente 
+en formato .html y también al principio con la lógica del ciclo. Sin embargo, investigando en internet y con ayuda de ejemplos, logré solucionarlo.
+
+
+Para realizar este trabajo utilicé conocimientos básicos de HTML para la estructura, 
+CSS para el diseño y JavaScript para la lógica e interacción del programa.
+
+
+En conclusión, este ejercicio me ayudó a entender mejor el uso de ciclos, especialmente 
+el ciclo for, y cómo aplicarlos en problemas matemáticos como el factorial, además de mejorar 
+en la creación de interfaces interactivas.
+
+
+Este fue mas complicado que los anteriores tuve mas fallas y me toco usar un poco de ayuda externa 
+y use las extensiones de visual studio para poder completar

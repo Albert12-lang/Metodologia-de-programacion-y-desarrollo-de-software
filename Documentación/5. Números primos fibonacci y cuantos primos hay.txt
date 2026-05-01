@@ -1,0 +1,21 @@
+Ejercicio 5 Jhon Gualpa c2
+
+Explicación como realizar ejercicio de fibonacci en .HTML	
+Duración 1
+Comenzamos creando el archivo .HTML de nombre Fibonacci iniciar con la base de HTML, en el <Body> ponemos un formulario para que el usuario ingrese la cantidad de números de la serie de Fibonacci que desea y un botón. 
+Continuamos realizando el espacio de salida un párrafo <p> donde se mostrará el resultado final, el algoritmo captura los valores ingresados, aplica los procesos según la variable N.
+El paso a paso:
+El algoritmo genera los primeros números N de la serie Fibonacci y cuenta cuantos de ellos son números primos.
+Se inicializa dos variables A = 0 B = 1
+Se repite un bucle for hasta obtener N números:
+Se guarda B  en la lista.
+Se calcula el siguiente numero como a + b.
+Se actualizan.
+Se recorre la lista fibonacci y se verifica cada número con la función esPrimo.
+Se guardan los números primos encontrados en un arreglo.
+Se muestra la serie completa, lo primos encontrados y la cantidad total.
+Ejemplo
+	Entrada: N=10.
+	Serie Fibonacci: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55.
+	Primos encontrados: 2, 3, 5, 13.
+	Cantidad: 4.
