@@ -6,7 +6,7 @@
 2. Serie de Fibonacci (Alavera Mejía Wellington Zinedine).
 3. Factorial de un número (Alavera Mejía Wellington Zinedine).
 4. Potencia (Gualpa Gonzalez Jhon Jairo).
-5. Números primos fibonacci y cuantos primos hay(Gualpa Gonzalez Jhon Jairo).
+5. Números primos fibonacci y cuantos primos hay (Gualpa Gonzalez Jhon Jairo).
 6. Primeros numeros primos del fibonacci (Ocampo Rivera Christofer Alexis).
 7. Numeros Primos (Semper Ordóñez Ismael Jared).
 8. Ingreso de valores del vendedor(Semper Ordóñez Ismael Jared).
@@ -19,7 +19,7 @@
 2. Serie de Fibonacci (Alavera Mejía Wellington Zinedine).
 3. Factorial de un número (Alavera Mejía Wellington Zinedine).
 4. Potencia (Gualpa Gonzalez Jhon Jairo).
-5. Números primos fibonacci y cuantos primos hay(Gualpa Gonzalez Jhon Jairo).
+5. Números primos fibonacci y cuantos primos hay (Gualpa Gonzalez Jhon Jairo).
 6. Primeros numeros primos del fibonacci (Ocampo Rivera Christofer Alexis).
 7. Numeros Primos (Semper Ordóñez Ismael Jared).
 8. Ingreso de valores del vendedor(Semper Ordóñez Ismael Jared).
